@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>demopackage</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Bruno Belchior</Authors>
+    <Company>BB Software</Company>
+    <RootNamespace>sample_nuget_package</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RepositoryUrl>https://github.com/brunovicenteb/sample-nuget-package</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
